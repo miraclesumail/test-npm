@@ -519,3 +519,4 @@ jwt.verify(token, 'shhhhh', function(err, decoded) {
 
 https://itnext.io/making-cli-app-with-ease-using-commander-js-and-inquirer-js-f3bbd52977ac
 
+https://github.com/SmallStoneSK/react-router-animation-demo
