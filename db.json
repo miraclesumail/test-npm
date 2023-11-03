@@ -1,73 +1,11 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "users": {
-    "code": 200,
-    "msg": "success",
-    "data": [
-       { "id": 1, "name": "Post 1" },
-       { "id": 2, "name": "Post 2" },
-       { "id": 3, "name": "Post 3" }
-    ]
-  },
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    {
+      "id": 1,
+      "title": "hello"
+    }
   ],
   "profile": {
-    "name": "typicode",
-    "info": {
-      "age": 28,
-      "gender": "male"
-    }
-  },
-  "businessReport": [
-    {
-        "time": "2018-12-25",
-        "register-number": 55,
-        "first-deposit": 33,
-        "conversion-rate": "40.00%",
-        "deposit-amount": 1000,
-        "avg-deposit": 100,
-        "deposit-number": 100,
-        "withdraw-number": 100,
-        "deposit-total": "20,000.00",
-        "withdraw-total": "20,000.00",
-        "amount-gap": "8,000",
-        "deposit-rate": "60.00%",
-        "valid-bet-num": 130,
-        "valid-bet-amount": "1,500,000.00",
-        "company-win": "150,000.00",
-        "profit-ratio": "10.00%",
-        "bonus": "10,000.00",
-        "back-water": "10,000.00",
-        "deposit-promotion": "30,000.00",
-        "company-amount": "30,000.00"
-    },
-    {
-        "time": "2019-10-24",
-        "register-number": 55,
-        "first-deposit": 33,
-        "conversion-rate": "40.00%",
-        "deposit-amount": 1000,
-        "avg-deposit": 100,
-        "deposit-number": 100,
-        "withdraw-number": 100,
-        "deposit-total": "20,000.00",
-        "withdraw-total": "20,000.00",
-        "amount-gap": "8,000",
-        "deposit-rate": "60.00%",
-        "valid-bet-num": 130,
-        "valid-bet-amount": "1,500,000.00",
-        "company-win": "150,000.00",
-        "profit-ratio": "10.00%",
-        "bonus": "10,000.00",
-        "back-water": "10,000.00",
-        "deposit-promotion": "30,000.00",
-        "company-amount": "30,000.00"
-    }
-]
+    "name": "typicode"
+  }
 }
