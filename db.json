@@ -21,7 +21,7 @@
     "name": "typicode",
     "info": {
       "age": 28,
-      "gender": 'male'
+      "gender": "male"
     }
   },
   "businessReport": [
