@@ -4,9 +4,9 @@
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
-  users: {
+  "users": {
     "code": 200,
-    "msg": 'success',
+    "msg": "success",
     "data": [
        { "id": 1, "name": "Post 1" },
        { "id": 2, "name": "Post 2" },
